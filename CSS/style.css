@@ -284,6 +284,13 @@ main .main_container {
     margin: 20px 0px;
 }
 
+#gif{
+    border-radius: 10px;
+    margin: auto;
+    width: 8rem;
+    height: 8rem;
+}
+
 .grid_container {
     height: 350px;
     border-radius: 24px;
